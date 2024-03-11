@@ -1,0 +1,1 @@
+Here you will find some important concepts in functional programming using JavaScript.
