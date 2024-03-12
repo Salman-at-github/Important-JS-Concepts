@@ -1,1 +1,1 @@
-Here you will find some important concepts in functional programming using JavaScript.
+Here you will find some important concepts in functional programming implemented using JavaScript.
